@@ -1,0 +1,16 @@
+{
+     "pedido": [
+          {
+               "orderId": 1,
+               "Address": "Av del Libertador 1245,Cap Fed. ",
+               "Status": "Recibo",
+               "Articulos": [
+                    {
+                         "Name": "Articulo X",
+                         "Quantity": 1,
+                         "Dangerous": true
+                    }
+               ]
+          }
+     ]
+}
